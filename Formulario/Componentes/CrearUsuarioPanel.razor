@@ -1,0 +1,16 @@
+﻿@using Formulario.Data
+<h1>Crear Usuario</h1>
+
+<FormularioContacto EnviarCallBack="ProcesarContacto"/>
+<hr />
+
+<!--Este if sólo funciona antes de el primer OnClick-->
+@if (contactoProcesado != null)
+{
+	<ResultadosFormulario ContactShown="contactoProcesado"></ResultadosFormulario>
+
+}
+else
+{
+	<p>No se ha podido procesar el contacto.</p>
+}

@@ -1,0 +1,60 @@
+﻿<h3>Formulario</h3>
+<EditForm Model="_contact" OnValidSubmit="Enviar">
+	<DataAnnotationsValidator />
+
+	<div class="form-group row">
+		<label for="name" class="col-md-2 col-form-label">Nombre:</label>
+		<div class="col-md-10">
+			<InputText id="name" class="form-control" @bind-Value="_contact.Nombre" />
+			<ValidationMessage For="@(() => _contact.Nombre)" />
+		</div>
+	</div>
+	<br />
+
+	<div class="form-group row">
+		<label for="surname" class="col-md-2 col-form-label">Apellidos:</label>
+		<div class="col-md-10">
+			<InputText id="surname" class="form-control" @bind-Value="_contact.Apellidos" />
+			<ValidationMessage For="@(() => _contact.Apellidos)" />
+		</div>
+	</div>
+	<br />
+
+	<div class="form-group row">
+		<label for="email" class="col-md-2 col-form-label">Email:</label>
+		<div class="col-md-10">
+			<InputText id="email" class="form-control" @bind-Value="_contact.Correo" />
+			<ValidationMessage For="@(() => _contact.Correo)" />
+		</div>
+	</div>
+	<br />
+
+	<div class="form-group row">
+		<label for="nickname" class="col-md-2 col-form-label">NickName:</label>
+		<div class="col-md-10">
+			<InputText id="nickname" class="form-control" @bind-Value="_contact.Nickname" />
+			<ValidationMessage For="@(() => _contact.Nickname)" />
+		</div>
+	</div>
+	<br />
+
+	<div class="form-group row">
+		<label for="password" class="col-md-2 col-form-label">Contraseña:</label>
+		<div class="col-md-10">
+			<InputText type="password" id="password" class="form-control" @bind-Value="_contact.Password" />
+			<ValidationMessage For="@(() => _contact.Password)" />
+		</div>
+	</div>
+	<br />
+
+	<div class="form-group row">
+		<label for="repetirpassword" class="col-md-2 col-form-label">Repetir Contraseña:</label>
+		<div class="col-md-10">
+			<InputText type="password" id="repetirpassword" class="form-control" @bind-Value="_contact.RepetirPassword" />
+			<ValidationMessage For="@(() => _contact.RepetirPassword)" />
+		</div>
+	</div>
+
+
+	<button type="submit" class="btn btn-primary">Enviar formulario</button>
+</EditForm>
