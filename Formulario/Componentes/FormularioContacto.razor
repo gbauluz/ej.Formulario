@@ -1,5 +1,5 @@
 ﻿<h3>Formulario</h3>
-<EditForm Model="_contact" OnValidSubmit="Enviar">
+<EditForm EditContext="_editContext" OnSubmit="Enviar">
 	<DataAnnotationsValidator />
 
 	<div class="form-group row">
@@ -54,7 +54,6 @@
 			<ValidationMessage For="@(() => _contact.RepetirPassword)" />
 		</div>
 	</div>
-
-
+	<br />
 	<button type="submit" class="btn btn-primary">Enviar formulario</button>
 </EditForm>
