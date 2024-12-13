@@ -1,4 +1,4 @@
-namespace Formulario.Data
+namespace Formulario.Application.Data
 {
     public class WeatherForecastService
     {

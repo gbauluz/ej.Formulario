@@ -1,4 +1,7 @@
-using Formulario.Data;
+using Formulario.Application.Data;
+using Formulario.Application.Services;
+using Formulario.Domain.Interfaces;
+using Formulario.Infraestructure.Repositories;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 
@@ -15,6 +18,11 @@ namespace Formulario
             builder.Services.AddServerSideBlazor();
             builder.Services.AddSingleton<WeatherForecastService>();
 
+            //INYECCIÓN DEPENDENCIA
+            builder.Services.AddSingleton<IContactRepo, ContactRepo>();
+            builder.Services.AddScoped<ContactService>(); //SINGLETON PETA EN ESTE SERVICIO AL DUPLICAR LA WEB! Hilo secundario !=> Dispatcher
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -30,6 +38,7 @@ namespace Formulario
             app.UseStaticFiles();
 
             app.UseRouting();
+
 
             app.MapBlazorHub();
             app.MapFallbackToPage("/_Host");

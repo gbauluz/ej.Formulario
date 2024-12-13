@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\Formulario.csproj": {}
+    "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Formulario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\Formulario.csproj": {
+    "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Formulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\Formulario.csproj",
+        "projectUniqueName": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Formulario.csproj",
         "projectName": "Formulario",
-        "projectPath": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\Formulario.csproj",
+        "projectPath": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Formulario.csproj",
         "packagesPath": "C:\\Users\\gbauluz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\obj\\",
+        "outputPath": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

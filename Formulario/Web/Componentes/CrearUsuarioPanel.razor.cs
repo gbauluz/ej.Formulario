@@ -1,4 +1,4 @@
-﻿using Formulario.Data;
+﻿using Formulario.Application.DTOs;
 
 namespace Formulario.Componentes
 {

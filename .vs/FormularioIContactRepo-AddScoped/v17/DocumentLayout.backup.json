@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BBD00-09FF-4C74-9C35-883C54F8AF00}|Formulario\\Formulario.csproj|c:\\users\\gbauluz\\desktop\\git repos\\practicas dic24\\ej2.1.formularioicontactrepo\\formulario\\application\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BBD00-09FF-4C74-9C35-883C54F8AF00}|Formulario\\Formulario.csproj|solutionrelative:formulario\\application\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BBD00-09FF-4C74-9C35-883C54F8AF00}|Formulario\\Formulario.csproj|c:\\users\\gbauluz\\desktop\\git repos\\practicas dic24\\ej2.1.formularioicontactrepo\\formulario\\web\\componentes\\resultadosformulario.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BBD00-09FF-4C74-9C35-883C54F8AF00}|Formulario\\Formulario.csproj|solutionrelative:formulario\\web\\componentes\\resultadosformulario.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BBD00-09FF-4C74-9C35-883C54F8AF00}|Formulario\\Formulario.csproj|c:\\users\\gbauluz\\desktop\\git repos\\practicas dic24\\ej2.1.formularioicontactrepo\\formulario\\web\\componentes\\formulariocontacto.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BBD00-09FF-4C74-9C35-883C54F8AF00}|Formulario\\Formulario.csproj|solutionrelative:formulario\\web\\componentes\\formulariocontacto.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BBD00-09FF-4C74-9C35-883C54F8AF00}|Formulario\\Formulario.csproj|c:\\users\\gbauluz\\desktop\\git repos\\practicas dic24\\ej2.1.formularioicontactrepo\\formulario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BBD00-09FF-4C74-9C35-883C54F8AF00}|Formulario\\Formulario.csproj|solutionrelative:formulario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Application\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "Formulario\\Application\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Application\\Services\\ContactService.cs",
+              "RelativeToolTip": "Formulario\\Application\\Services\\ContactService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:54:04.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioContacto.razor.cs",
+              "DocumentMoniker": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Web\\Componentes\\FormularioContacto.razor.cs",
+              "RelativeDocumentMoniker": "Formulario\\Web\\Componentes\\FormularioContacto.razor.cs",
+              "ToolTip": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Web\\Componentes\\FormularioContacto.razor.cs",
+              "RelativeToolTip": "Formulario\\Web\\Componentes\\FormularioContacto.razor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:46:56.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultadosFormulario.razor.cs",
+              "DocumentMoniker": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Web\\Componentes\\ResultadosFormulario.razor.cs",
+              "RelativeDocumentMoniker": "Formulario\\Web\\Componentes\\ResultadosFormulario.razor.cs",
+              "ToolTip": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Web\\Componentes\\ResultadosFormulario.razor.cs",
+              "RelativeToolTip": "Formulario\\Web\\Componentes\\ResultadosFormulario.razor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:33:39.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Program.cs",
+              "RelativeDocumentMoniker": "Formulario\\Program.cs",
+              "ToolTip": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\Program.cs",
+              "RelativeToolTip": "Formulario\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:19:13.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

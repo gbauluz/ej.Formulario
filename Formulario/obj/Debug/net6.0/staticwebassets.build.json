@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GURP0ENP/wjzKYNoOthQ478EfSagmyVQI47MgbQUtOo=",
+  "Hash": "ZNdD60XtjgVoki9dc60Dt7L0Ka+Ln7FE69P9T+vH4uc=",
   "Source": "Formulario",
   "BasePath": "_content/Formulario",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Formulario\\wwwroot",
       "Source": "Formulario",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Formulario.styles.css",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Formulario.styles.css",
       "SourceId": "Formulario",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "Formulario#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "lgCNsoqWhYpeBkGsmcpl3YXNvn/vTrzMN2Y10YA1Huw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Formulario.styles.css"
+      "OriginalItemSpec": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Formulario.styles.css"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Formulario.bundle.scp.css",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Formulario.bundle.scp.css",
       "SourceId": "Formulario",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "Formulario#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "lgCNsoqWhYpeBkGsmcpl3YXNvn/vTrzMN2Y10YA1Huw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Formulario.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Formulario.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -73,17 +73,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.otf",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/open-iconic/FONT-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/open-iconic/ICON-LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/open-iconic/README#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\site.css",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\favicon.ico",
       "SourceId": "Formulario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\",
       "BasePath": "_content/Formulario",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -334,8 +334,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -344,7 +344,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -352,11 +352,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -366,7 +366,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
+          "Value": "6gzpyzhau4"
         },
         {
           "Name": "label",
@@ -374,13 +374,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -389,7 +389,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162720"
+          "Value": "162726"
         },
         {
           "Name": "Content-Type",
@@ -397,11 +397,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -411,13 +411,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
         }
       ]
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -438,7 +438,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -462,7 +462,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -483,7 +483,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -499,7 +499,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.cmapd0fi15.css",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -520,7 +520,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -544,7 +544,7 @@
     },
     {
       "Route": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -565,7 +565,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -581,7 +581,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.0uw8dim9nl.eot",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -602,7 +602,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -626,7 +626,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.eot",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -647,7 +647,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -663,7 +663,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.h4d0pazwgy.woff",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -684,7 +684,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -708,7 +708,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ll5grcv8wv.ttf",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -729,7 +729,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -753,7 +753,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.otf",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -774,7 +774,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -790,7 +790,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.sjnzgf7e1h.svg",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -811,7 +811,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -835,7 +835,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.svg",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -856,7 +856,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -872,7 +872,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.ttf",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -893,7 +893,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -909,7 +909,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.wk8x8xm0ah.otf",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -930,7 +930,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -954,7 +954,7 @@
     },
     {
       "Route": "css/open-iconic/font/fonts/open-iconic.woff",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -975,7 +975,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -991,7 +991,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1012,7 +1012,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1028,7 +1028,7 @@
     },
     {
       "Route": "css/open-iconic/FONT-LICENSE.48tmkg660f",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1049,7 +1049,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1073,7 +1073,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1094,7 +1094,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1110,7 +1110,7 @@
     },
     {
       "Route": "css/open-iconic/ICON-LICENSE.4dwjve0o0b",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1131,7 +1131,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1155,7 +1155,7 @@
     },
     {
       "Route": "css/open-iconic/README.8h4oiah9s0.md",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1176,7 +1176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1200,7 +1200,7 @@
     },
     {
       "Route": "css/open-iconic/README.md",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\open-iconic\\README.md",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\open-iconic\\README.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1221,7 +1221,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1237,7 +1237,7 @@
     },
     {
       "Route": "css/site.1fpfb6x0uo.css",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1258,7 +1258,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1282,7 +1282,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1303,7 +1303,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1319,7 +1319,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1340,7 +1340,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1364,7 +1364,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1385,7 +1385,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 15:16:45 GMT"
+          "Value": "Thu, 12 Dec 2024 12:56:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1401,7 +1401,7 @@
     },
     {
       "Route": "Formulario.bundle.scp.css",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Formulario.bundle.scp.css",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Formulario.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1422,7 +1422,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 10:22:20 GMT"
+          "Value": "Fri, 13 Dec 2024 11:30:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1438,7 +1438,7 @@
     },
     {
       "Route": "Formulario.styles.css",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Formulario.styles.css",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Formulario.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1459,7 +1459,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 10:22:20 GMT"
+          "Value": "Fri, 13 Dec 2024 11:30:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1475,7 +1475,7 @@
     },
     {
       "Route": "Formulario.uyvrm4ot0p.bundle.scp.css",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Formulario.bundle.scp.css",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Formulario.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1496,7 +1496,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 10:22:20 GMT"
+          "Value": "Fri, 13 Dec 2024 11:30:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1520,7 +1520,7 @@
     },
     {
       "Route": "Formulario.uyvrm4ot0p.styles.css",
-      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.FormularioEditContext\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Formulario.styles.css",
+      "AssetFile": "C:\\Users\\gbauluz\\Desktop\\GIT Repos\\Practicas Dic24\\ej2.1.FormularioIContactRepo\\Formulario\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Formulario.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1541,7 +1541,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 10:22:20 GMT"
+          "Value": "Fri, 13 Dec 2024 11:30:53 GMT"
         },
         {
           "Name": "Cache-Control",
