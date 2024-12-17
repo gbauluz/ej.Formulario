@@ -19,7 +19,10 @@ namespace Formulario
             builder.Services.AddSingleton<WeatherForecastService>();
 
             //INYECCIÓN DEPENDENCIA
-            builder.Services.AddSingleton<IContactRepo, ContactRepo>();
+
+            //builder.Services.AddScoped<IContactRepo, ContactRepo>(); //Cambia para diferentes requests
+            builder.Services.AddSingleton<IContactRepo, ContactRepo>(); //Se mantiene para diferentes requests. Lifetime->No se limpia con el garbage collector
+
             builder.Services.AddScoped<ContactService>(); //SINGLETON PETA EN ESTE SERVICIO AL DUPLICAR LA WEB! Hilo secundario !=> Dispatcher
 
 
@@ -41,7 +44,7 @@ namespace Formulario
 
 
             app.MapBlazorHub();
-            app.MapFallbackToPage("/_Host");
+            app.MapFallbackToPage("/_Host"); //DUDA CUANDO CAMBIO LAS RUTAS!
 
             app.Run();
         }

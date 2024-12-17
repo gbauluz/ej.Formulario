@@ -6,10 +6,10 @@ namespace Formulario.Application.Services
 {
     public class ContactService
     {
-        private readonly IContactRepo _contactRepo;
         public event Action? OnStateChanged;
 
-
+        private readonly IContactRepo _contactRepo;
+        
         public ContactService(IContactRepo contactRepo)
         {
             _contactRepo = contactRepo;
@@ -17,7 +17,7 @@ namespace Formulario.Application.Services
 
         public void GuardarContacto(ContactoForm contactoForm)
         {
-            _contactRepo.SaveContact(MapContactoFormToContactoFormModel(contactoForm));
+            _contactRepo.SaveContact(MapContactoFormToContacto(contactoForm));
         }
 
         public Contacto ObtenerContacto()
@@ -27,9 +27,9 @@ namespace Formulario.Application.Services
 
         //Cuando el método es llamado desde el onclick del formulario, lanza el evento OnStateChanged
         //Al hacerlo, lanza el StateHasChanged de los resultados del form, pues está suscrito a este evento.
-        public void NotifyStateChanged() => OnStateChanged?.Invoke(); //Para servicio singleton, InvokeAsync()
+        public void NotifyStateChanged() => OnStateChanged?.Invoke(); //Para servicio singleton, InvokeAsync()???
 
-        private Contacto MapContactoFormToContactoFormModel(ContactoForm contactoForm)
+        private Contacto MapContactoFormToContacto(ContactoForm contactoForm)
         {
             var contacto = new Contacto
             {

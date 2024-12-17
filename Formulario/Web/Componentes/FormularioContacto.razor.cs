@@ -1,6 +1,7 @@
 ﻿using System.Text.RegularExpressions;
 using Formulario.Application.DTOs;
 using Formulario.Application.Services;
+using Formulario.Domain.Interfaces;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Forms;
 
@@ -14,11 +15,12 @@ namespace Formulario.Web.Componentes
         private readonly ContactoForm _contact = new();
 
         private EditContext _editContext=default!;
+
         private ValidationMessageStore _validationMessageStore=default!;
 
+
         [Inject] public ContactService Service { get; set; } = default!;
-
-
+       
 
         protected override void OnInitialized()
         {
@@ -37,9 +39,11 @@ namespace Formulario.Web.Componentes
             if (isValid)
             {
                 Service.GuardarContacto(_contact);
+
+
                 Service.NotifyStateChanged(); 
                 //Notificamos al servicio que el estado del hermano cambiará!!!
-                //Este método invoca el evento al que está suscrito el StateHasChanged del hermano
+                //Este método invoca el evento al que está suscrito el StateHasChanged del hermano ***AHORA ES EL HandleRender****
             }
         }
 

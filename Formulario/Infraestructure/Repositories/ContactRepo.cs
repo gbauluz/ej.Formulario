@@ -8,6 +8,10 @@ namespace Formulario.Infraestructure.Repositories
     public class ContactRepo : IContactRepo
     {
         private Contacto _contacto = default!;
+        public ContactRepo()
+        {
+                
+        }
 
         public void SaveContact(Contacto contacto) => _contacto = contacto;
 

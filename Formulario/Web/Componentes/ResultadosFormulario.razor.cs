@@ -8,46 +8,31 @@ namespace Formulario.Web.Componentes
     {
 
         private Contacto? _contactShown;
-        private bool _mostrar;
 
         [Inject] public ContactService Service { get; set; } = default!;
 
 
         //Inicializa y nos suscribimos al evento OnStateChanged para que al hacer click en el botón del componente hermano,
-        //desde aquí se reciba un cambio de estado que lo hace volver a renderizarse
+        //desde aquí se reciba un cambio de estado que lo hace volver a renderizarse ***Actualizado: Gestionado desde el HandleRender que invoca el StateHasChanged***
         protected override void OnInitialized() 
         {
             _contactShown = Service.ObtenerContacto();
-            if (_contactShown != null)
-            {
-                _mostrar = true;
-            }
-            else
-            {
-                _mostrar = false;
-            }
-            Service.OnStateChanged += StateHasChanged;
+            
+            Service.OnStateChanged += HandleRender;
+
             base.OnInitialized();
         }
 
-        //protected override void OnAfterRender(bool firstRender) //Prueba para ver si así furulaba el "primer" ShouldRender
-        //{
-        //    if(firstRender)
-        //    {
-        //        StateHasChanged();
-        //    }
-        //}
 
-        protected override bool ShouldRender()
+        public void HandleRender()
         {
             _contactShown = Service.ObtenerContacto();
-            if (_contactShown != null)
-            {
-                _mostrar = true;
-            }
-            return _contactShown != null;//!!!!!Renderiza de todos modos
+            
+            InvokeAsync(StateHasChanged);
         }
 
-        public void Dispose() => Service.OnStateChanged -= StateHasChanged; //Nos desuscribimos
+        public void Dispose() => Service.OnStateChanged -= HandleRender; //Nos desuscribimos
+
+       
     }
 }
