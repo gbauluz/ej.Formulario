@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Components.Forms;
 
 namespace Formulario.Web.Componentes
 {
-    public partial class FormularioContacto : ComponentBase
+    public partial class FormularioContacto 
     {
 
         private readonly ContactoForm _contact = new();

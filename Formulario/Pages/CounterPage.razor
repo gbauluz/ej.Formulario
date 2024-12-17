@@ -1,0 +1,21 @@
+﻿@page "/counter"
+@using Formulario.Web.Componentes
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+<div class="container d-flex gap-3 justify-content-around">
+    <Counter ServiceType="Transient"/>
+    <Counter ServiceType="Scoped" />
+    <Counter ServiceType="Singleton" />
+</div>
+
+@code{
+    protected override void OnAfterRender(bool firstRender)
+    {
+
+
+        Console.WriteLine("\n\rRenderizado Padre\n\r");
+        base.OnAfterRender(firstRender);
+    }
+}

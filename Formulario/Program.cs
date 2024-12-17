@@ -1,5 +1,6 @@
 using Formulario.Application.Data;
 using Formulario.Application.Services;
+using Formulario.Application.Services.CounterServices;
 using Formulario.Domain.Interfaces;
 using Formulario.Infraestructure.Repositories;
 using Microsoft.AspNetCore.Components;
@@ -17,6 +18,16 @@ namespace Formulario
             builder.Services.AddRazorPages();
             builder.Services.AddServerSideBlazor();
             builder.Services.AddSingleton<WeatherForecastService>();
+
+
+            //COUNTER!!
+            builder.Services.AddTransient<TransientCounterService>();
+
+            builder.Services.AddScoped<ScopedCounterService>();
+
+            builder.Services.AddSingleton<SingletonCounterService>();
+
+
 
             //INYECCIÓN DEPENDENCIA
 
